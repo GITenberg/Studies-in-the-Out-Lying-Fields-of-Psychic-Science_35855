@@ -1,0 +1,37 @@
+_repo: Studies-in-the-Out-Lying-Fields-of-Psychic-Science_35855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tuttle, Hudson
+    birthdate: 1836
+    deathdate: 1910
+    gutenberg_agent_id: '37937'
+    url: http://www.gutenberg.org/2009/agents/37937
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35855'
+  lccn: '11003403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology'
+- !lcc 'BF'
+tableOfContents: 'Dedication -- Analysis -- Matter, life, spirit -- What the senses
+  teach of the world and the doctrine of evolution -- Scientific methods of the study
+  of man, and its results -- What is the sensitive state? -- Sensitive state: its
+  division into mesmeric, somnambulic and clairvoyant -- Sensitiveness proved by psychometry
+  -- Sensitiveness during sleep -- Dreams -- Sensitiveness induced by disease -- Thought
+  transference -- Intimations of an intelligent force -- Effects of physical influences
+  on the sensitive -- Unconscious sensitiveness -- Prayer in the light of sensitiveness
+  and thought waves -- Christian Science, mind cure, faith cure: their physical relations
+  -- What the immortal state must be -- Personal experience: intelligence from the
+  sphere of light.'
+title: Studies in the Out-Lying Fields of Psychic Science
+url: http://www.gutenberg.org/ebooks/35855
