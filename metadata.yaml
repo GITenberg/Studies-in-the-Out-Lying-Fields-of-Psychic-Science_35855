@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37937'
     url: http://www.gutenberg.org/2009/agents/37937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35855#Studies-in-the-Out-Lying-Fields-of-Psychic-Science
 gutenberg_issued: '2011-04-13'
 gutenberg_type: Text
 identifiers:
